@@ -1,0 +1,52 @@
+﻿* {
+    box-sizing: border-box;
+    font-family: 'Noto Sans KR', sans-serif;
+    border-radius: 5px;
+}
+
+body {
+    margin: 0;
+    background-color: #1BBC9B;
+}
+
+.register-form {
+    width: 500px;
+    background: #EEEFF1;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    text-align: center;
+    border: none;
+}
+.login-form {
+    width: 300px;
+    background-color: #EEEFF1;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+    border: none;
+}
+
+.text-field {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    font-size: 14px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.submit-btn {
+    font-size: 14px;
+    border: none;
+    padding: 10px;
+    width: 260px;
+    background-color: #1BBC9B;
+    margin-bottom: 30px;
+    color: white;
+}
+
